@@ -10,7 +10,6 @@
     <!-- Main Css -->
     <link href="{{asset("assets/style.css")}}" rel="stylesheet" type="text/css">
 </head>
-
 <body>
     <!-- =========== Main Section Start =========== -->
     <section class="relative h-screen w-full flex items-center justify-center bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-[#ccf9df] to-[#d1d6ff]">
