@@ -48,7 +48,8 @@ class LoginNotificationSchedule extends Command
         $userIdToExclude = 1011;
         $user = User::where('last_login', '<=', Carbon::now()->subDays(90))
         ->where('id', '!=', $userIdToExclude)
-        ->get();    
+        ->get();
+        dd($user->toSql())   ; 
         foreach($user as $u){
             $lastLogin = Carbon::parse($u->last_login);
             $totalDays = now()->diffInDays($lastLogin);
