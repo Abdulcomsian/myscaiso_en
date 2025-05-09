@@ -10,6 +10,7 @@
     <!-- Main Css -->
     <link href="{{asset("assets/style.css")}}" rel="stylesheet" type="text/css">
 </head>
+
 <body>
     <!-- =========== Main Section Start =========== -->
     <section class="relative h-screen w-full flex items-center justify-center bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-[#ccf9df] to-[#d1d6ff]">
@@ -35,7 +36,7 @@
                         <a href="javascript:;" class="w-full inline-flex items-center justify-center px-6 gap-4 py-2.5 font-medium backdrop-blur-2xl border border-gray-300 bg-primary text-white rounded-md transition-all duration-500">
                             <img src="{{asset("assets/img/google.png")}}" alt="" class="max-w-5 h-5 text-dark ">English
                         </a>
-                        <a lang="ar" dir="rtl" href="Scaiso-Ar-Login.html"  class="w-full inline-flex items-center justify-center px-6 gap-4 py-2.5 font-medium backdrop-blur-2xl border border-gray-300 bg-white text-dark rounded-md transition-all duration-500 group"><img src="{{asset("assets/img/facebook.png")}}" alt="" class="max-w-5 h-5 text-dark">العربية</a>
+                        <a href="https://myisoarabia.com/" lang="ar" dir="rtl"   class="w-full inline-flex items-center justify-center px-6 gap-4 py-2.5 font-medium backdrop-blur-2xl border border-gray-300 bg-white text-dark rounded-md transition-all duration-500 group"><img src="{{asset("assets/img/facebook.png")}}" alt="" class="max-w-5 h-5 text-dark">العربية</a>
                     </div>   
 
                     <div class="mb-4">
