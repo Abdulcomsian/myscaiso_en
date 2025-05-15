@@ -338,6 +338,23 @@ object {
   display: block; /* 1 */
   vertical-align: middle; /* 2 */
 }
+.btn-secondary {
+    color: #fff;
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+.btn.focus, .btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover {
+    background-color: #105c55 !important;
+}
+.btn-brand.disabled, .btn-brand:disabled {
+    color: #fff;
+    background-color: #547270 !important;
+    border-color: #5d78ff;
+}
 /*
 Constrain images and videos to the parent width and preserve their intrinsic aspect ratio. (https://github.com/mozdevs/cssremedy/issues/14)
 */
