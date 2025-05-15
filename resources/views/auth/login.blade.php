@@ -92,7 +92,7 @@
 											</div>
 											<div class="modal-body">
 												<h6>Agreement to Terms</h6>
-												<p>This document governs your relationship with  Myisoonline™  J M Enterprises owns
+												<p>This document governs your relationship with  Myscaiso™  J M Enterprises owns
 													and   operates   this   website.   Access   to   and   use   of   this   website   and   the
 													products   and   services   available   through   this   website   (collectively,   the
 													"Services") are subject to the following terms, conditions, and notices (the
@@ -123,13 +123,13 @@
 													commercial enterprise.</p>
 													<h6>Terms of Service</h6>
 													<p>We collaborate with outside Independent Auditors and Certification Bodies
-													who can provide to users of Myisoonline™ ISO certification upon completion
-													of a successful audit.  Myisoonline™ cannot award certificates to users as is
-													not an Accreditation Body nor Certification Body. Each Myisoonline™ software license is valid for three years, subject to three
+													who can provide to users of Myscaiso™ ISO certification upon completion
+													of a successful audit.  Myscaiso™ cannot award certificates to users as is
+													not an Accreditation Body nor Certification Body. Each Myscaiso™ software license is valid for three years, subject to three
 													successful annual audits. After purchasing our system and should you wish
 													to gain ISO Certification, you must continue to use it and demonstrate usage
 													by passing each annual audit; otherwise, your Certificate will be revoked. If
-													your Certificate is revoked, Myisoonline will not be held responsible.</p>
+													your Certificate is revoked, Myscaiso will not be held responsible.</p>
 													<h6>Returns</h6>
 													<p>Since we deal in online certification and it's a digital service, we only offer a
 													refund within 7 days during service purchase. We request you to check out
