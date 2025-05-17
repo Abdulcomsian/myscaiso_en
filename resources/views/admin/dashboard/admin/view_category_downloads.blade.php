@@ -4,7 +4,7 @@
     <div style="display:flex; align-items:center; gap:40px"> 
         @if ($download->thumb_nail)
         <div>
-            <img src="{{ asset('uploads/downloads/' . $download->thumb_nail) }}" width="110" height="156">
+            <img src="{{ asset('public/uploads/downloads/' . $download->thumb_nail) }}" width="110" height="156">
         </div>
        
         @endif
@@ -14,10 +14,10 @@
  <div style="display: flex; gap:20px;justify-content:space-between;">
     <div style="display: flex; flex-direction: column;gap:5px;">
         @if ($download->download_file)
-        <a href="{{ asset('uploads/downloads/' . $download->download_file) }}" target="_blank"><img src="assets/img/a4-btn.png"  style="width: 80%"></a><br>
+        <a href="{{ asset('public/uploads/downloads/' . $download->download_file) }}" target="_blank"><img src="assets/img/a4-btn.png"  style="width: 80%"></a><br>
         @endif
         @if ($download->download_file2)
-        <a href="{{ asset('uploads/downloads/' . $download->download_file2) }}" target="_blank"><img src="assets/img/a5-btn.png"  style="width: 80%"></a><br>
+        <a href="{{ asset('public/uploads/downloads/' . $download->download_file2) }}" target="_blank"><img src="assets/img/a5-btn.png"  style="width: 80%"></a><br>
         @endif
     </div>
     <div>

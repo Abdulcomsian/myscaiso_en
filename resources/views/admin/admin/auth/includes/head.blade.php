@@ -71,6 +71,8 @@
 
 		<!--end::Layout Skins -->
 		<link rel="shortcut icon" href="../assets/media/logos/favicon.ico" />
+
+		<link href="{{asset("assets/style.css")}}" rel="stylesheet" type="text/css">
 	</head>
 
 	<!-- end::Head -->

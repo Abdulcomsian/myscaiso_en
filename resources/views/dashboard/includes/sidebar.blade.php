@@ -31,7 +31,7 @@
 	<div class="kt-aside__brand kt-grid__item " id="kt_aside_brand">
 		<div class="kt-aside__brand-logo">
 			<a href="{{ url('/home') }}">
-				<img alt="Logo" src="public/{{Auth::user()->profile_image}}" width="84px"/>
+				<img alt="Logo" src="{{Auth::user()->profile_image}}" width="84px"/>
 
 			</a>
 		</div>
@@ -674,11 +674,11 @@
 						<ul class="kt-menu__subnav">
 							<br>
 							<li class="kt-menu__item " aria-haspopup="true">
-								<a href="https://myisoonline.com/public/lms/courses/water-conservation-and-reducing-water-waste-in-schools/" class="kt-menu__link " target="_blank">
+								<a href="https://myscaiso.com/public/lms/courses/workplace-safety-avoiding-slips-trips-and-simple-accidents/" class="kt-menu__link " target="_blank">
 									<i class="kt-menu__link-bullet kt-menu__link-bullet--dot">
 										<span></span>
 									</i>
-									<span class="kt-menu__link-text"> Water Conservation and Reducing Water Waste in Schools</span></a>
+									<span class="kt-menu__link-text"> Workplace Safety: Avoiding Slips, Trips, and Simple Accidents</span></a>
 							</li>
                               
 							<li class="kt-menu__item " aria-haspopup="true" style="margin-top:30px;">

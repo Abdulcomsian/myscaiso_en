@@ -110,4 +110,27 @@
 	.newColor{
 		background: #4580c6 !important;
 	}
+		/* new chanages  */
+.kt-widget17__visual.kt-widget17__visual--chart.kt-portlet-fit--top.kt-portlet-fit--sides {
+    background: #105c55 !important;
+}
+.newColor {
+    background: #4556a6 !important;
+}
+.badge-primary {
+   
+    background-color: #4556a6 !important;
+}
+.btn-brand {
+    color: #fff;
+    background-color: #4556a6 !important;
+    border-color: #4556a6 !important;
+}
+@media (min-width: 1025px) {
+    .kt-header .kt-header-menu .kt-menu__nav > .kt-menu__item.kt-menu__item--here > .kt-menu__link .kt-menu__link-text, .kt-header .kt-header-menu .kt-menu__nav > .kt-menu__item.kt-menu__item--active > .kt-menu__link .kt-menu__link-text, .kt-header .kt-header-menu .kt-menu__nav > .kt-menu__item:hover > .kt-menu__link .kt-menu__link-text {
+        color: #4556a6;
+    }
+}
+/* end new changes */
+</style>
 </style>

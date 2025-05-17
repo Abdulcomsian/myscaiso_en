@@ -251,4 +251,4 @@
 	.newColor{
 		background: #4580c6 !important;
 	}
-</style>
+
