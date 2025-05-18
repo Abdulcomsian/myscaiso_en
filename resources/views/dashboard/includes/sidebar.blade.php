@@ -33,7 +33,7 @@
 	<div class="kt-aside__brand kt-grid__item " id="kt_aside_brand">
 		<div class="kt-aside__brand-logo">
 			<a href="{{ url('/home') }}">
-				<img alt="Logo" src="{{Auth::user()->profile_image}}" width="84px"/>
+				<img alt="Logo" src="public/{{str_replace("app","",Auth::user()->profile_image)}}" width="84px"/>
 
 			</a>
 		</div>
