@@ -27,7 +27,7 @@
                     <div class="kt-portlet__body kt-portlet__body--fit">
                         <div class="kt-widget17">
                             <div class="kt-widget17__visual kt-widget17__visual--chart kt-portlet-fit--top kt-portlet-fit--sides"
-                                 style="background-color: #002c60;    border-bottom-left-radius: 0.42rem;border-bottom-right-radius: 0.42rem;">
+                                 style="background-color: #105c55;    border-bottom-left-radius: 0.42rem;border-bottom-right-radius: 0.42rem;">
                                 <div class="kt-widget17__chart" style="height:160px;">
 
                                 </div>
@@ -562,7 +562,7 @@
     }
 
     .newColor {
-        background: #4580c6 !important;
+        background: #4556a6 !important;
     }
 
     .kt-svg-icon.kt-svg-icon--brand g [fill] {

@@ -46,7 +46,7 @@ class NotifyEmployee extends Notification
                     // ->greeting('Dear ' . $this->empName)
                     // ->line('We are pleased to inform you that your email address has been successfully added to MYISOonline. You are now eligible to access and take advantage of our free MYISOonline courses')
                     // ->line('To get started, please register on our LMS system using your official email address:')
-                    // ->action('Register Now', url('https://myisoonline.com/public/lms/account/?action=register'))
+                    // ->action('Register Now', url('https://myscaiso.com/public/lms/account/?action=register'))
                     // ->line('Thank you for using our application!');
     }
 

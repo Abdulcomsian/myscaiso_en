@@ -1164,23 +1164,23 @@ function viewDetails(data) {
                 $("input[name='iso45001_expirydate']").val(data.iso45001_expirydate);
                 $("textarea[name='iso45001_description']").val(data.iso45001_description);
 
-                let logo_src = "https://myisoonline.com/public/" + data.profile_image;
+                let logo_src = "https://myscaiso.com/public/" + data.profile_image;
                 $("#view_output").attr("src", logo_src);
 
 
 
                 if (data.iso9001_certificate != null) {
-                    $("#v_9001").append("<a target='_blank' href='https://myisoonline.com/public/" + data.iso9001_certificate + "'>View</a>");
+                    $("#v_9001").append("<a target='_blank' href='https://myscaiso.com/public/" + data.iso9001_certificate + "'>View</a>");
                 } else {
                     $('#v_9001').append('Not Found');
                 }
                 if (data.iso14001_certificate != null) {
-                    $("#v_4001").append("<a target='_blank' href='https://myisoonline.com/public/" + data.iso14001_certificate + "'>View</a>");
+                    $("#v_4001").append("<a target='_blank' href='https://myscaiso.com/public/" + data.iso14001_certificate + "'>View</a>");
                 } else {
                     $('#v_4001').append('Not Found');
                 }
                 if (data.iso45001_certificate != null) {
-                    $("#v_45001").append("<a target='_blank' href='https://myisoonline.com/public/" + data.iso45001_certificate + "'>View</a>");
+                    $("#v_45001").append("<a target='_blank' href='https://myscaiso.com/public/" + data.iso45001_certificate + "'>View</a>");
                 } else {
                     $('#v_45001').append('Not Found');
                 }

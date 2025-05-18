@@ -57,7 +57,7 @@
 								</div>
 								
 								<button type="submit" class="submitBtn">SUBMIT</button>
-								<!---- <a href="https://myisoonline.com/requirements_aspect" style="float: right;margin-right: 6px;border: none;background: #646c9a;color: #fff;padding: 8px 47px;border-radius: 5px;"> Cancel </a>---->
+								<!---- <a href="https://myscaiso.com/requirements_aspect" style="float: right;margin-right: 6px;border: none;background: #646c9a;color: #fff;padding: 8px 47px;border-radius: 5px;"> Cancel </a>---->
                     		</form>
                     
 <div class="clearfix mb-4">&nbsp;</div>

@@ -21,7 +21,7 @@
 										</div>
 										<div class="kt-portlet__body kt-portlet__body--fit">
 											<div class="kt-widget17">
-												<div class="kt-widget17__visual kt-widget17__visual--chart kt-portlet-fit--top kt-portlet-fit--sides" style="background-color: #002c60;    border-bottom-left-radius: 0.42rem;border-bottom-right-radius: 0.42rem;">
+												<div class="kt-widget17__visual kt-widget17__visual--chart kt-portlet-fit--top kt-portlet-fit--sides" style="background-color: #105c55;    border-bottom-left-radius: 0.42rem;border-bottom-right-radius: 0.42rem;">
 													<div class="kt-widget17__chart" style="height:250px;">
 														
 													</div>

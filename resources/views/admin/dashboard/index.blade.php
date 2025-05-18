@@ -21,7 +21,7 @@
 										</div>
 										<div class="kt-portlet__body kt-portlet__body--fit">
 											<div class="kt-widget17">
-												<div class="kt-widget17__visual kt-widget17__visual--chart kt-portlet-fit--top kt-portlet-fit--sides" style="background-color: #002c60;    border-bottom-left-radius: 0.42rem;border-bottom-right-radius: 0.42rem;">
+												<div class="kt-widget17__visual kt-widget17__visual--chart kt-portlet-fit--top kt-portlet-fit--sides" style="background-color: #105c55;    border-bottom-left-radius: 0.42rem;border-bottom-right-radius: 0.42rem;">
 													<div class="kt-widget17__chart" style="height:250px;">
 														
 													</div>
@@ -108,29 +108,7 @@
 <!-- end:: Content -->
 <style>
 	.newColor{
-		background: #4580c6 !important;
+		background: #4556a6 !important;
 	}
-		/* new chanages  */
-.kt-widget17__visual.kt-widget17__visual--chart.kt-portlet-fit--top.kt-portlet-fit--sides {
-    background: #105c55 !important;
-}
-.newColor {
-    background: #4556a6 !important;
-}
-.badge-primary {
-   
-    background-color: #4556a6 !important;
-}
-.btn-brand {
-    color: #fff;
-    background-color: #4556a6 !important;
-    border-color: #4556a6 !important;
-}
-@media (min-width: 1025px) {
-    .kt-header .kt-header-menu .kt-menu__nav > .kt-menu__item.kt-menu__item--here > .kt-menu__link .kt-menu__link-text, .kt-header .kt-header-menu .kt-menu__nav > .kt-menu__item.kt-menu__item--active > .kt-menu__link .kt-menu__link-text, .kt-header .kt-header-menu .kt-menu__nav > .kt-menu__item:hover > .kt-menu__link .kt-menu__link-text {
-        color: #4556a6;
-    }
-}
-/* end new changes */
-</style>
+	
 </style>

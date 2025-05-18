@@ -18,7 +18,9 @@
 	.kt-menu__link:hover .image-hover {
 		opacity: 1; /* Show the hover image on menu hover */
 	}
-
+	.addBtn, .addBtn:hover {
+		background-color: #105c55;
+	}
 
 </style>
 <!-- begin:: Aside -->
@@ -623,7 +625,7 @@
 							</li> --}}
 
 							<li class="kt-menu__item " aria-haspopup="true">
-								<a href="https://myisoonline.com/public/lms/courses/iso-90012015-qms-quality-management-system/" class="kt-menu__link " target="_blank">
+								<a href="https://myscaiso.com/public/lms/courses/iso-90012015-qms-quality-management-system/" class="kt-menu__link " target="_blank">
 									<i class="kt-menu__link-bullet kt-menu__link-bullet--dot">
 										<span></span>
 									</i>
@@ -632,7 +634,7 @@
 							</li>
 
 							<li class="kt-menu__item " aria-haspopup="true">
-								<a href="https://myisoonline.com/public/lms/courses/iso-450012018-occupational-health-safety-management-system-internal-auditor-course/" class="kt-menu__link" target="_blank">
+								<a href="https://myscaiso.com/public/lms/courses/iso-450012018-occupational-health-safety-management-system-internal-auditor-course/" class="kt-menu__link" target="_blank">
 									<i class="kt-menu__link-bullet kt-menu__link-bullet--dot">
 										<span></span>
 									</i>
@@ -641,7 +643,7 @@
 							</li>
 
 							<li class="kt-menu__item " aria-haspopup="true">
-								<a href="https://myisoonline.com/public/lms/courses/iso-140012015-environmental-management-system-internal-auditor-course/" class="kt-menu__link " target="_blank">
+								<a href="https://myscaiso.com/public/lms/courses/iso-140012015-environmental-management-system-internal-auditor-course/" class="kt-menu__link " target="_blank">
 									<i class="kt-menu__link-bullet kt-menu__link-bullet--dot">
 										<span></span>
 									</i>
@@ -682,7 +684,7 @@
 							</li>
                               
 							<li class="kt-menu__item " aria-haspopup="true" style="margin-top:30px;">
-								<a href="https://myisoonline.com/public/lms/courses/maintaining-equipment-and-tools-in-small-construction-sites-and-office-locations/" class="kt-menu__link" target="_blank">
+								<a href="https://myscaiso.com/public/lms/courses/maintaining-equipment-and-tools-in-small-construction-sites-and-office-locations/" class="kt-menu__link" target="_blank">
 									<i class="kt-menu__link-bullet kt-menu__link-bullet--dot">
 										<span></span>
 									</i>
@@ -705,7 +707,7 @@
 						<span class="kt-menu__arrow"></span>
 						<ul class="kt-menu__subnav">
 							<li class="kt-menu__item " aria-haspopup="true">
-								<a href="https://myisoonline.com/public/lms/courses/iso-140012015-environmental-management-system-internal-auditor-course/" class="kt-menu__link " target="_blank">
+								<a href="https://myscaiso.com/public/lms/courses/iso-140012015-environmental-management-system-internal-auditor-course/" class="kt-menu__link " target="_blank">
 									<i class="kt-menu__link-bullet kt-menu__link-bullet--dot">
 										<span></span>
 									</i>
