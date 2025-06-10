@@ -179,7 +179,7 @@ class AddUsersController extends Controller
                     nl2br($nhistory->note);
         
         if ($nhistory->note_img) {
-            $filePath = asset('uploads/notes/' . $nhistory->note_img);
+            $filePath = asset('public/uploads/notes/' . $nhistory->note_img);
             $list .= '<br><a href="' . $filePath . '" target="_blank">View Attachment</a>';
         } 
 
