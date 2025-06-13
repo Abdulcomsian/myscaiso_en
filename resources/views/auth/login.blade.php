@@ -4,8 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SCAISO - TAQEEM | ISO Portal</title>
-    <meta name="description" content="Tailwind CSS Saas HTML Template Is A Multi Purpose Landing Page Template, Corporate, Authentication, Launching Web, Agency or Business Startup, Clean, Modern, Creative, Multipurpose and Tailwind CSS Tailwind v3 etc."/>
+    {{-- <title>SCAISO - TAQEEM | ISO Portal</title> --}}
+	<title>MySCAISO.com</title>
+	<meta name="description" content="Tailwind CSS Saas HTML Template Is A Multi Purpose Landing Page Template, Corporate, Authentication, Launching Web, Agency or Business Startup, Clean, Modern, Creative, Multipurpose and Tailwind CSS Tailwind v3 etc."/>
     <meta name="author" content="Zoyothemes"/>
     <!-- Main Css -->
    
