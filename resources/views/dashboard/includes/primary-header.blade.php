@@ -28,7 +28,7 @@
 						<div class="kt-header-menu-wrapper" id="kt_header_menu_wrapper">
 							<div id="kt_header_menu" class="kt-header-menu kt-header-menu-mobile  kt-header-menu--layout-default ">
 								<ul class="kt-menu__nav ">
-									<li class="kt-menu__item  kt-menu__item--open kt-menu__item--here kt-menu__item--submenu kt-menu__item--rel kt-menu__item--open kt-menu__item--here kt-menu__item--active"><a href="{{ url('/home')}}" class="kt-menu__link"><span class="kt-menu__link-text">My ISO Online</span></a>
+									<li class="kt-menu__item  kt-menu__item--open kt-menu__item--here kt-menu__item--submenu kt-menu__item--rel kt-menu__item--open kt-menu__item--here kt-menu__item--active"><a href="{{ url('/home')}}" class="kt-menu__link"><span class="kt-menu__link-text">MYSCAISO</span></a>
 										<div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
 											
 										</div>

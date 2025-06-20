@@ -22,7 +22,7 @@
     <section class="relative h-screen w-full flex items-center justify-center bg-[conic-gradient(at_top_right,_var(--tw-gradient-stops))] from-[#ccf9df] to-[#d1d6ff]">
         <div class="relative max-w-lg md:mx-auto mx-6 w-full flex flex-col justify-center bg-white rounded-lg p-6">
             <div class="text-start mb-7">
-                <a href="index.html" class="grow block mb-8">
+                <a href="javascript:;" class="grow block mb-8">
                      <img class=" mx-auto" src="{{asset("assets/img/logo2.webp")}}" alt="images"  style="width: 450px">
                 </a>
 
@@ -195,10 +195,13 @@
 													<h6>CONTACT US</h6>
 													<p>If you have questions or comments about this Terms and Conditions, please
 													get in touch with us at: <br>
-													Office 1003, C34 Building,. <br>
-													Ar Razqi St, Al Danah, <br>
-													Abu Dhabi, United Arab Emirates, 2220. <br>
-													Email: ceo@jmegrp.com </p>
+													
+												J M Enterprises LLC<br>
+												Office 1003, C34 Building,<br>
+												Ar Razqi St, Al Danah,<br>
+												Abu Dhabi, United Arab Emirates, 22207<br>
+												Email: ceo@jmegrp.com 
+												</p>
 													<!-- <div class="ml-2">
 															<input class="form-check-input agreeInput" type="checkbox" value="" id="TermConditions">
 															<label class="form-check-label" for="TermConditions">
